@@ -1,2 +1,4 @@
 20230815	23:20:52	09b520ab-0643-4e51-b9d9-51ee1a4b6a8c	Error: Not allowed by CORS
 20230816	01:56:02	c89302bd-692c-4a2a-930f-a25e9f347946	SyntaxError: Unexpected token } in JSON at position 42
+20230816	19:09:51	7824c8ab-a742-4ff0-ac97-0e84566f929c	Error: Not allowed by CORS
+20230816	19:09:51	894b841a-2b38-42a6-837f-3ac8bc6cb571	Error: Not allowed by CORS

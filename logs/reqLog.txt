@@ -70,3 +70,17 @@
 20230816	01:56:02	2f7f4c07-5e7d-47fd-8ff9-cde5bbef4699	PUT	undefined	/employees
 20230816	01:56:15	aa7b1dda-9153-4f95-881d-acc8a03631c6	PUT	undefined	/employees
 20230816	01:56:59	f5461f63-4b71-48dd-86dc-68d4e4afcd3f	GET	undefined	/employees/1
+20230816	19:09:24	48bce165-2b98-4c3f-814d-7636379278e7	GET	undefined	/
+20230816	19:09:24	f5a61669-e75c-4c42-bf30-6117b1697f01	GET	undefined	/css/style.css
+20230816	19:09:25	7b41b08b-4012-4f15-8da6-6c94817430a6	GET	undefined	/favicon.ico
+20230816	19:09:51	a802bddb-6cc5-4d38-9851-47aca2fa0b99	OPTIONS	https://www.google.com	/
+20230816	19:09:51	f6ba1548-425b-4e8a-a2e0-97fca8dad7ee	GET	https://www.google.com	/
+20230816	19:18:37	7ce53b35-ba0d-49a2-a0ce-45edb001149f	GET	undefined	/employees/1
+20230816	19:18:45	1da0e923-326e-4822-b168-c21166f25b72	GET	undefined	/employees
+20230816	19:19:14	93979d8f-4a02-4d16-b5dc-8d50faa7ae66	POST	undefined	/employees
+20230816	19:20:39	e855d187-6339-484b-9672-71e754526120	POST	undefined	/employees
+20230816	19:21:06	89686846-3ca7-4c68-90a0-a3dec85988c4	PUT	undefined	/employees
+20230816	19:22:38	2e399597-7238-4ef8-bc2d-994928aec149	DELETE	undefined	/employees
+20230816	19:23:30	a12194d2-cfa1-4c44-b52a-ccf91f4a0185	GET	undefined	/employees/1
+20230816	19:23:34	d29881eb-b37a-4eb7-8381-a5579b73ad0d	GET	undefined	/employees/2
+20230816	19:23:39	36ee214b-0fde-4235-a40c-a5552b9cf053	GET	undefined	/employees/3
